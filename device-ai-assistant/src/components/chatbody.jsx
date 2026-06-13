@@ -36,11 +36,11 @@ function ChatBody({
             </div>
 
             <h3 className="font-bold text-lg">
-              Welcome to RNA
+              Welcome to CareBot
             </h3>
 
             <p className="text-sm text-gray-500 mt-2 mb-4">
-              RNA can assist with device status,
+              CareBot can assist with device status,
               historical records, alerts,
               and troubleshooting insights.
             </p>
